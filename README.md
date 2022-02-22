@@ -1,7 +1,7 @@
 # OscarWinnerLibrary
 
 
-#### Reture the Oscars in the year user inputed
+#### Reture a list of Oscars nominees in the year user inputed
 
 ##### @param matchYear {string} - The year for which you want all nominees
 ##### @return matchYearOscar {list} - The list of nominees in the specified year
@@ -42,7 +42,7 @@
 
 
 
-#### Returns Oscar Awards get by a certain nominee
+#### Returns the Oscar Awards gotten by a certain nominee
 
 ##### @param nom {string} - a certain nominee the user wants to look up 
 ##### @return matchCategory {list} - The list of awards a specific nominee gets
